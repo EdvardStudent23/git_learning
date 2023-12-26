@@ -9,3 +9,7 @@ There are some changes...
 ## Felicita
 
 New commites
+
+## Local Development
+
+1. Open index.html in your browser.
